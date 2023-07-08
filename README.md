@@ -1,6 +1,6 @@
 # react_playground
 
-## Javascript 기초
+## [Javascript 기초](https://github.com/yeoseon/javascript_playground)
 
 ## React 기초
 
